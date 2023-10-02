@@ -19,11 +19,12 @@ pip intall -r requirements.txt
 './Datasets/Beijing_data/left_text.csv' includes the queries that are posed by users from Beijing dataset.
 
 './Datasets/Beijing_data/test.csv' provides some samples of clicking log. Each click record consists of a user ID, a query, and the POI that the user clicked. The whole anonymized dataset will be released upon acceptance
- 
-
-'./Datasets/Beijing_data/trainer.pt' the saved model file for loading to test the performance
 
 './Datasets/Beijing_data/emb_matrix_file.pkl' the saved embedding matrix for word token.
+
+### checkpoints
+
+'./checkpoints_/trainer.pt' the saved model checkpoint file for loading to test the performance
 
 
 ### Testing
