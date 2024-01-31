@@ -1,5 +1,5 @@
 # QPL
-### Code for 'Learning User Geographical Preferences for Personalized POI Search' paper
+### Code for 'Exploring User Preferences in Geographical Factors for Personalized POI Search' paper
 
 ### Requirements
 
